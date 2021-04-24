@@ -27,9 +27,9 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Images of our countries collected over the internet and from specific sources can be classified in respect of:
+Images from countryside collected over the internet and from specific sources can be classified in respect of:
 * chemical pollution level
-* floreal specifity
+* floreal species
 
 This enables the whole system to build a map of areas in Europe with information about flower variety and chemical substances concentration.
 
@@ -44,7 +44,7 @@ Every georeferenced image of a landscape or terrain of areas inside Europe can b
 
 Deep learning and neural networks are the main methods exploited to process images and classify them in respect of:
 * chemical pollution level
-* floreal specifity
+* floreal species
 
 This enables the whole system to build a map of areas in Europe where beekeepers can find specific flowers variety and avoid areas with higher pollution level.
 
