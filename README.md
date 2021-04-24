@@ -39,14 +39,14 @@ The main users of the system are beekeepers that can find where to place their h
 ## Data sources and AI methods
 Every georeferenced image of a landscape or terrain of areas inside Europe can be used as an input for this project:
 * satellite images
-* public images published on the internet
+* public ones published on the internet
 * images retrieved for the specific purpose of this project
 
-Deep learing and neural networks are the main methods exploited to process images and classify them in respect of:
+Deep learning and neural networks are the main methods exploited to process images and classify them in respect of:
 * chemical pollution level
 * floreal specifity
 
-This enables the whole system to build a map of areas in Europe where beekeeprs can find specific flowers variety anbd avoid areas with higher pollution level.
+This enables the whole system to build a map of areas in Europe where beekeepers can find specific flowers variety and avoid areas with higher pollution level.
 
 <!--
 
