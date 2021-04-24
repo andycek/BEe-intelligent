@@ -64,5 +64,5 @@ Next step is ... the world! We can map even the whole world to help bees everywh
 
 ## Acknowledgments
 
-* Reaktor and University of Helsinki for the helpfull courses "Elements of AI" and "Building AI" 
-* ... and my dear Diana to supporting me! 
+* Reaktor and University of Helsinki for the helpfull courses _"Elements of AI"_ and _"Building AI"_
+* ... and my dear Diana for supporting me! 
