@@ -5,7 +5,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 # BEe-intelligent
 Let bees and planet Earth survive!
 
-*Building AI course project* - https://buildingai.elementsofai.com/
+*Building AI course project - https://buildingai.elementsofai.com/*
 
 ## Summary
 
