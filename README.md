@@ -9,7 +9,7 @@ Let bees and planet Earth survive!
 
 ## Summary
 
-Bees are fundamental for life on our planet Earth but they are in danger due to use of chemical products for agricolture.
+Bees are fundamental for life on our planet Earth but they are in danger due to chemical products used for agricolture.
 Images from satellite and also public panoramic images from the internet can be processed by AI methods to build a map of safe areas for bees where beekeepers can bring their hives to let these little insects work safely.
 
 ![Bee_on_flower](bee-4271910_1280.jpg)
@@ -27,13 +27,13 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Images of or countries collected over the internet and from specific sources can be classified in respect of:
+Images of our countries collected over the internet and from specific sources can be classified in respect of:
 * chemical pollution level
 * floreal specifity
 
 This enables the whole system to build a map of areas in Europe with information about flower variety and chemical substances concentration.
 
-The main users of the system are beekeepers that can find where to place their hives to let bees fly on flowers of a particular find and avoid areas with higher pollution level.
+The main users of the system are beekeepers that can find where to place their hives to let bees fly on flowers of a particular kind and avoid areas with higher pollution level.
 
 
 ## Data sources and AI methods
