@@ -42,7 +42,7 @@ Every georeferenced image of a landscape or terrain of areas inside Europe can b
 * public ones published on the internet
 * images retrieved for the specific purpose of this project
 
-Deep learning and neural networks are the main methods exploited to process images and classify them in respect of:
+Deep learning and neural networks are the main methods exploited to process images and classify them into groups concerning both:
 * chemical pollution level
 * floreal species
 
