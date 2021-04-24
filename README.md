@@ -11,7 +11,7 @@ Let bees and planet Earth survive!
 Bees are fundamental for life on our planet Earth but they are in danger due to use of chemical products for agricolture.
 Images from satellite and also public panoramic images from the internet can be processed by AI methods to build a map of safe areas for bees where beekeepers can bring their hives to let these little insects work safely.
 
-
+<!-- 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
@@ -78,3 +78,4 @@ How could your project grow and become something even more? What kind of skills,
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
+ -->
