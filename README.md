@@ -27,7 +27,7 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Images from countryside collected over the internet and from specific sources can be classified in respect of:
+Images from countryside collected over the internet and from specific sources can be classified into groups concerning both:
 * chemical pollution level
 * floreal species
 
@@ -46,7 +46,7 @@ Deep learning and neural networks are the main methods exploited to process imag
 * chemical pollution level
 * floreal species
 
-This enables the whole system to build a map of areas in Europe where beekeepers can find specific flowers variety and avoid areas with higher pollution level.
+This enables the whole system to build a map of areas in Europe where beekeepers can find specific flowers variety avoiding areas with higher pollution level.
 
 <!--
 
