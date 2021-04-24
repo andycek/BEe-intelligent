@@ -59,10 +59,10 @@ What does your project _not_ solve? Which limitations and ethical considerations
 
 ## What next?
 
-Next step is ... the world! We can map even the whole world to help bees every where to find a clean environment for pollination!
+Next step is ... the world! We can map even the whole world to help bees everywhere to find a clean environment for pollination!
 
 
 ## Acknowledgments
 
-* Reaktor and University of Helsinki for the helpfull courses "Elemets of AI" and "Building AI" 
+* Reaktor and University of Helsinki for the helpfull courses "Elements of AI" and "Building AI" 
 * ... and my dear Diana to supporting me! 
