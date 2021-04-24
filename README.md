@@ -4,14 +4,15 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # BEe-intelligent
 Let bees and planet Earth survive!
-( Final project for the Building AI course )
+
+*Building AI course project*
 
 ## Summary
 
 Bees are fundamental for life on our planet Earth but they are in danger due to use of chemical products for agricolture.
 Images from satellite and also public panoramic images from the internet can be processed by AI methods to build a map of safe areas for bees where beekeepers can bring their hives to let these little insects work safely.
 
-![Nee_on_flower](bee-4271910_1280.jpg)
+![Bee_on_flower](bee-4271910_1280.jpg)
 
 <!-- 
 ## Background
